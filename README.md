@@ -93,3 +93,6 @@ Customer segmentation improves simulation accuracy
 FINAL BUSINESS RECOMMENDATION
 
 Although a 15% price increase maximizes revenue, a 10% price increase is recommended as it provides a balancebetween revenue growth and customer retention,reducing the risk of demand loss.
+
+Tools Used:   
+Python, Pandas, NumPy, Matplotlib, SciPy, SQLAlchemy, OpenPyXL
