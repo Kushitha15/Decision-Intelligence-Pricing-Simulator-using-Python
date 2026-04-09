@@ -1,13 +1,16 @@
 # Decision-Intelligence-Pricing-Simulator-using-Python
 https://github.com/Kushitha15/Decision-Intelligence-Pricing-Simulator-using-Python/blob/main/Code.ipynb
 
-1.DISCRIPTION
+DISCRIPTION  
+
 Developed a pricing strategy simulation model to analyze the impact of price changes on revenue using transactional retail data. The project integrates data cleaning, feature engineering, customer segmentation, and elasticity-based demand modeling to simulate real-world business scenarios and support data-driven pricing decisions.
 
-2. PURPOSE OF THE PROJECT
+PURPOSE OF THE PROJECT
+
 The purpose of this project is to evaluate how different pricing strategies influence revenue and customer behavior, enabling businesses to make informed decisions that balance profitability and customer retention.
 
-3. DATA SOURCE
+DATA SOURCE
+   
 Dataset: Online Retail Dataset (UK-based transactions)
 Format: Excel (.xlsx)
 Features:
@@ -19,7 +22,8 @@ CustomerID
 InvoiceDate
 Country
 
-4. BUSINESS PROBLEM
+BUSINESS PROBLEM
+
 Businesses often struggle to determine:
 How much to increase prices without losing customers
 Which customer segments are more sensitive to price changes
@@ -29,14 +33,16 @@ What pricing strategy maximizes revenue
 
 “What is the optimal price increase that maximizes revenue while minimizing demand loss?”
 
-5. GOAL OF THE PROJECT
+GOAL OF THE PROJECT
+
 Analyze historical transaction data
 Segment customers based on spending behavior
 Apply price elasticity modeling
 Simulate multiple pricing scenarios (5%, 10%, 15%)
 Identify the optimal pricing strategy
 
-6. KEY TECHNIQUES USED
+KEY TECHNIQUES USED
+
 Data Cleaning & Preprocessing
 Outlier Handling
 Feature Engineering
@@ -47,7 +53,8 @@ Data Visualization
 Statistical Testing (SciPy)
 Database Integration (SQLAlchemy)
 
-7. VISUALIZATIONS 
+
+VISUALIZATIONS 
 🔹 1. Revenue Comparison (Line Chart)
 👉 Shows:
 
@@ -75,12 +82,14 @@ Insight:
 High-value customers contribute majority of revenue and are less price-sensitive
 Link for visualizations: https://github.com/Kushitha15/Decision-Intelligence-Pricing-Simulator-using-Python/blob/main/Visualizations.pdf
 
-8. KEY INSIGHTS
+KEY INSIGHTS
+
 Revenue increases with price across all scenarios
 A 15% price increase yields the highest revenue
 High-value customers are less sensitive to price changes
 Low-value customers show higher price sensitivity
 Customer segmentation improves simulation accuracy
 
-9. FINAL BUSINESS RECOMMENDATION
+FINAL BUSINESS RECOMMENDATION
+
 Although a 15% price increase maximizes revenue, a 10% price increase is recommended as it provides a balancebetween revenue growth and customer retention,reducing the risk of demand loss.
