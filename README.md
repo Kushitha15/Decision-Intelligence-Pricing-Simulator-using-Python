@@ -1,13 +1,9 @@
 # Decision-Intelligence-Pricing-Simulator-using-Python
 1.DISCRIPTION
-
-Developed a pricing strategy simulation model to analyze the impact of price changes on revenue using transactional retail data. 
-The project integrates data cleaning, feature engineering, customer segmentation, and elasticity-based demand modeling to simulate 
-real-world business scenarios and support data-driven pricing decisions.
+Developed a pricing strategy simulation model to analyze the impact of price changes on revenue using transactional retail data. The project integrates data cleaning, feature engineering, customer segmentation, and elasticity-based demand modeling to simulate real-world business scenarios and support data-driven pricing decisions.
 
 2. PURPOSE OF THE PROJECT
-The purpose of this project is to evaluate how different pricing strategies influence revenue and customer behavior, enabling businesses 
-to make informed decisions that balance profitability and customer retention.
+The purpose of this project is to evaluate how different pricing strategies influence revenue and customer behavior, enabling businesses to make informed decisions that balance profitability and customer retention.
 
 3. DATA SOURCE
 Dataset: Online Retail Dataset (UK-based transactions)
@@ -85,5 +81,4 @@ Low-value customers show higher price sensitivity
 Customer segmentation improves simulation accuracy
 
 9. FINAL BUSINESS RECOMMENDATION
-Although a 15% price increase maximizes revenue, a 10% price increase is recommended as it provides a balance
-between revenue growth and customer retention, reducing the risk of demand loss.
+Although a 15% price increase maximizes revenue, a 10% price increase is recommended as it provides a balancebetween revenue growth and customer retention,reducing the risk of demand loss.
