@@ -71,7 +71,7 @@ Revenue contribution by segment
 Insight:
 
 High-value customers contribute majority of revenue and are less price-sensitive
-Link for visualizations:
+Link for visualizations: https://github.com/Kushitha15/Decision-Intelligence-Pricing-Simulator-using-Python/blob/main/Visualizations.pdf
 
 8. KEY INSIGHTS
 Revenue increases with price across all scenarios
