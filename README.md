@@ -1,5 +1,6 @@
 # Decision-Intelligence-Pricing-Simulator-using-Python
 1.DISCRIPTION
+
 Developed a pricing strategy simulation model to analyze the impact of price changes on revenue using transactional retail data. 
 The project integrates data cleaning, feature engineering, customer segmentation, and elasticity-based demand modeling to simulate 
 real-world business scenarios and support data-driven pricing decisions.
